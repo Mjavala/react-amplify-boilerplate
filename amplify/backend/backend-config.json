@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactamplifyboilerpl3376b981": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
